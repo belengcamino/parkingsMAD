@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotnine
+shapely.geometry
+shapely
+streamlit_folium
+os
+folium
+json
+geopandas
+json
+re
+fuzzywuzzy
+matplotlib.pyplot
