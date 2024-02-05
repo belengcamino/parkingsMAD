@@ -6,6 +6,5 @@ shapely==2.0.2
 streamlit_folium==0.18.0
 folium==0.15.1
 geopandas==0.14.2
-re
 fuzzywuzzy==0.18.0
 matplotlib==3.7.2
