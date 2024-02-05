@@ -8,4 +8,4 @@ folium==0.15.1
 geopandas==0.14.2
 re
 fuzzywuzzy==0.18.0
-matplotlib
+matplotlib==3.7.2
